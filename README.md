@@ -23,8 +23,8 @@ To implement a logistic regression model to classify food items for diabetic pat
 ```
 /*
 Program to implement Logistic Regression for classifying food choices based on nutritional information.
-Developed by: R Venkatramani
-RegisterNumber:  25010118 // 212225240182
+Developed by: R JAYENTHAN
+RegisterNumber:  25011312 // 212225240057
 */
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -64,8 +64,8 @@ l2_model.fit(X_train, y_train)
 
 y_pred = l2_model.predict(X_test)
 
-print("\nName: R Venkatramani")
-print("Reg No: 212225240182")
+print("\nName: R JAYENTHAN")
+print("Reg No: 212225240057")
 
 print("\nModel Evaluation")
 print("Accuracy:", accuracy_score(y_test, y_pred))
