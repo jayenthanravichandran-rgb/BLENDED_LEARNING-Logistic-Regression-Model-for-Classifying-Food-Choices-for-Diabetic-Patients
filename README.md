@@ -81,7 +81,7 @@ print(conf_matrix)
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
-<img width="1010" height="782" alt="image" src="https://github.com/user-attachments/assets/c9d64110-0c0a-4940-ad91-28b80a16a937" />
+
 <img width="1117" height="712" alt="image" src="https://github.com/user-attachments/assets/8ef8f7ff-b2cd-4102-a7e3-bdb82e8e1844" />
 <img width="1006" height="92" alt="image" src="https://github.com/user-attachments/assets/29e62205-cf0b-4953-bf24-c5292c722cec" />
 
